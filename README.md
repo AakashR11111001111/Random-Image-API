@@ -1,18 +1,7 @@
+# Random Image API
+
 ## API Endpoint
-
-### Get a Random Image  
-**GET** [`https://random-image-api-1-ufo9.onrender.com/photos/random`](https://random-image-api-1-ufo9.onrender.com/photos/random)  
-
-⚠ **Note:** This API is hosted on a free-tier service, so response times may vary. Sometimes it may take a few seconds to load the response. Please be patient! ⏳
-
-#### Example Response  
-```json
-{
-  "id": 1,
-  "image_url": "https://example.com/random-image.jpg"
-}
-```
-
+  
 📌 **Usage:** Make a GET request to `/photos/random` to receive a random image.
 
 ### Get a Random Image  
